@@ -26,7 +26,7 @@ Android-разработчик из Москвы. Пишу на **Kotlin** и **
 
 Работаю с **Pet-проектами** и **хакатонами** — в них вся моя практика.
 
-Ищу стажировку в **Android-разработке**. Готов к переезду и релокации. Рассматриваю также **бэкенд** (Java / Spring Boot).
+Ищу стажировку в **Android-разработке**. Рассматриваю также **бэкенд** (Java / Spring Boot).
 
 ---
 
@@ -69,6 +69,18 @@ Android-разработчик из Москвы. Пишу на **Kotlin** и **
 
 ---
 
+## 🎬 Демонстрация работы
+
+| Главный экран | Добавление записи ПФМ | График пикфлоуметрии |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/266d104a-d1d0-476c-a0cd-423802cd076a" width="250" /> | <img src="https://github.com/user-attachments/assets/bca4eac4-c32c-4959-908f-2107e6e443d3" width="250" /> | <img src="https://github.com/user-attachments/assets/cedaf7e0-01c3-476a-9035-0ba5e3702262" width="250" /> |
+
+| Добавление лекарства | Окно лекарств | Погода |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/3f2c1299-02a9-43e6-b5f8-b20e4f9fd7b4" width="250" /> | <img src="https://github.com/user-attachments/assets/79fd58af-a277-452f-8d71-6de247344765" width="250" /> | <img src="https://github.com/user-attachments/assets/cf037f96-0dde-4af9-964b-211872ee8c0f" width="250" /> |
+
+---
+
 ### 💬 Simple Messenger
 [![Repo](https://img.shields.io/badge/GitHub-Zama47/Simple--Messenger-181717?style=flat-square&logo=github)](https://github.com/Zama47/Simple--Messenger)
 
@@ -82,15 +94,11 @@ Full-stack мессенджер с real-time обменом сообщениям
 
 ---
 
-### 🎮 Poker Unity Game
-[![Repo](https://img.shields.io/badge/GitHub-Zama47/Poker_Unity_Game-181717?style=flat-square&logo=github)](https://github.com/Zama47/Poker_Unity_Game)
+## 🎬 Демонстрация работы
 
-**Карточный покер против ИИ на Unity.**
-- Техасский Холдем: все 10 комбинаций
-- Адаптивный ИИ-бот: чек / колл / рейз на основе силы карт
-- Алгоритм Фишера-Йетса для перемешивания колоды
-
-**Стек:** C#, Unity, ООП
+| Экран авторизации | Список чатов | Чат |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d11ee538-c8d9-4ab6-b7ff-5f10dc3e1498" width="250" /> | <img src="https://github.com/user-attachments/assets/75346dd6-1f60-47d9-9a9b-1d4fe80fd16f" width="250" /> | <img src="https://github.com/user-attachments/assets/3ec1a8c4-5cd2-416f-a828-3610a8ee7c84" width="250"/> |
 
 ---
 
@@ -103,6 +111,30 @@ Full-stack мессенджер с real-time обменом сообщениям
 - Локальное NoSQL-хранилище (SharedPreferences)
 
 **Стек:** Dart, Flutter, Provider, SharedPreferences, REST API
+
+---
+
+## 🎬 Демонстрация работы
+
+| Вход | Каталог | Детали игры |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/3e1ad860-33af-4823-a0df-06acac7a0cd1" width="220" /> | <img src="https://github.com/user-attachments/assets/2c8c1dc0-41bd-4218-9295-0cd5f072c19c" width="220" /> | <img src="https://github.com/user-attachments/assets/f3d4b91d-e502-48c2-a761-a2175fecfbd5" width="220" /> |
+
+| Меню | Заказы игрока | Заказы админа |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/2d85e928-6c76-44c7-abc2-083336e65758" width="220" /> | <img src="https://github.com/user-attachments/assets/fb11604b-7475-427c-a7e5-211b16cfab67" width="220" /> | <img src="https://github.com/user-attachments/assets/ef548f4f-3a73-4a7c-9967-2e8febce3d83" width="220" /> |
+
+---
+
+### 🎮 Poker Unity Game
+[![Repo](https://img.shields.io/badge/GitHub-Zama47/Poker_Unity_Game-181717?style=flat-square&logo=github)](https://github.com/Zama47/Poker_Unity_Game)
+
+**Карточный покер против ИИ на Unity.**
+- Техасский Холдем: все 10 комбинаций
+- Адаптивный ИИ-бот: чек / колл / рейз на основе силы карт
+- Алгоритм Фишера-Йетса для перемешивания колоды
+
+**Стек:** C#, Unity, ООП
 
 ---
 
