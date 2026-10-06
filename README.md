@@ -69,6 +69,19 @@ Android-разработчик из Москвы. Пишу на **Kotlin** и **
 
 ---
 
+### 💬 Simple Messenger
+[![Repo](https://img.shields.io/badge/GitHub-Zama47/Simple--Messenger-181717?style=flat-square&logo=github)](https://github.com/Zama47/Simple--Messenger)
+
+Full-stack мессенджер с real-time обменом сообщениями.
+- Разработан Android-клиент (Jetpack Compose) и серверная часть (Spring Boot)
+- Реализована надежная доставка сообщений через WebSocket (STOMP) с автоматическим переходом на REST API при потере соединения
+- Настроена JWT-аутентификация и хранение истории сообщений в PostgreSQL
+- Статус: В активной разработке
+
+**Стек:** Kotlin, Jetpack Compose, MVVM, Coroutines, Hilt, Retrofit, Java 17, Spring Boot 3.2, PostgreSQL, JWT, WebSocket (STOMP)
+
+---
+
 ### 🎮 Poker Unity Game
 [![Repo](https://img.shields.io/badge/GitHub-Zama47/Poker_Unity_Game-181717?style=flat-square&logo=github)](https://github.com/Zama47/Poker_Unity_Game)
 
